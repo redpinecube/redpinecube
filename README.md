@@ -1,4 +1,4 @@
-## Hi there 👋
+# 🌱🌱🌱 I enjoy exploring the world with a quantitative framework. 🌱🌱🌱
 
 <!--
 **redpinecube/redpinecube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
