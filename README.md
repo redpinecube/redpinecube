@@ -1,4 +1,4 @@
-🌱 "All models are wrong, but some are useful" ~ George Box 🌱
+<h1>  <img src="https://media.giphy.com/media/EwKJPvjNBdJjc8CzRP/giphy.gif?cid=ecf05e47rhsnc64rav7y2ghvkkhhcx1wncmftssd5uk6we24&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"></h1>
 
 <!--
 **redpinecube/redpinecube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
