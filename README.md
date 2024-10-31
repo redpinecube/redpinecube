@@ -2,9 +2,7 @@
 <h2>ABOUT ME</h2>
 
 <div>
-    Passionate about Applied Machine Learning and Mathematics Research.<br>
-    Exploring the world through a quantitative lens to uncover insights and drive innovation.<br>
-    Avid horse rider, embracing discipline and freedom in every ride.
+    An Associate Data Scientist Dedicated to Exploring the World with a Quantitative Perspective. <br>
 </div>
 
 
