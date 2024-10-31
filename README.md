@@ -2,7 +2,7 @@
 <h2>ABOUT ME</h2>
 
 <div>
-    An Associate Data Scientist Dedicated to Exploring the World with a Quantitative Perspective. <br>
+    Dedicated to Exploring the World with a Quantitative Perspective. <br>
 </div>
 
 
