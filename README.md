@@ -1,4 +1,4 @@
-<h1>  <img src="https://media.giphy.com/media/EwKJPvjNBdJjc8CzRP/giphy.gif?cid=ecf05e47rhsnc64rav7y2ghvkkhhcx1wncmftssd5uk6we24&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"></h1>
+<h1>  <img src="https://media.giphy.com/media/FMg8v84fdwdJmkgtF6/giphy.gif?cid=790b76110clfp9s6aemv15v5bp2pf0vw4dutio64duu4h080&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"></h1>
 
 <!--
 **redpinecube/redpinecube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
