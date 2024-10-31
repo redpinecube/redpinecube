@@ -6,3 +6,31 @@
     💡 Passionate about Applied ML and Mathematical Research<br>
     🔍 Exploring the world through a quantitative lens to uncover insights and drive innovation.
 </div>
+
+```javascript
+const tara = {
+
+  pronouns: ['she', 'her'],
+
+  languages: ['python', 'r', 'java', 'javascript', 'html', 'css'],
+
+  tools: {
+
+    dataScience: ['pandas', 'scikit-learn', 'pytorch', 'tensorflow', 'nltk', 'opencv', 'tidyverse', 'matplotlib'],
+
+    databases: ['postgreSQL','JDBC'],
+
+    webDevelopment: ['django', 'D3'],
+
+    visualization: ['tableau', 'power bi", 'shiny', 'leaflet'],
+
+    versionControl: ['git'],
+
+    cloud: ['aws']
+
+  }
+
+};
+
+```
+
