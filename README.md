@@ -1,70 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Your Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>Your Name</h1>
-            <nav>
-                <ul>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#projects">Projects</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+# My Portfolio
 
-    <section id="about">
-        <div class="container">
-            <h2>About Me</h2>
-            <p>Brief introduction about yourself and your skills.</p>
-        </div>
-    </section>
+<!-- Link to External Stylesheet (CSS) -->
+<link rel="stylesheet" href="https://raw.githubusercontent.com/username/portfolio/main/style.css">
 
-    <section id="projects">
-        <div class="container">
-            <h2>My Projects</h2>
-            <div class="project-grid">
-                <div class="project-box">
-                    <img src="project1.jpg" alt="Project 1">
-                    <h3>Project 1</h3>
-                    <p>Short description of the project goes here.</p>
-                </div>
-                <div class="project-box">
-                    <img src="project2.jpg" alt="Project 2">
-                    <h3>Project 2</h3>
-                    <p>Short description of the project goes here.</p>
-                </div>
-                <div class="project-box">
-                    <img src="project3.jpg" alt="Project 3">
-                    <h3>Project 3</h3>
-                    <p>Short description of the project goes here.</p>
-                </div>
-                <!-- Add more projects as needed -->
-            </div>
-        </div>
-    </section>
+<!-- Welcome Message -->
+<h1>Welcome to My GitHub Portfolio</h1>
+<p>Explore my work, learn more about me, or read my blog!</p>
 
-    <section id="contact">
-        <div class="container">
-            <h2>Contact</h2>
-            <p>Feel free to reach out to me via email at <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-        </div>
-    </section>
+<!-- Buttons to switch between sections -->
+<div style="text-align: center; margin-bottom: 20px;">
+    <button onclick="showSection('portfolio')">Portfolio</button>
+    <button onclick="showSection('about')">About Me</button>
+    <button onclick="showSection('blog')">Blog</button>
+</div>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Your Name. All rights reserved.</p>
-        </div>
-    </footer>
+<!-- Portfolio Section (default visible) -->
+<div id="portfolio" class="section">
+    <h2>My Portfolio</h2>
+    <p>Here are some of the projects I've worked on:</p>
+    
+    <h3>Project 1: Portfolio Website</h3>
+    <p>A modern and professional portfolio built with HTML, CSS, and JavaScript. It showcases my work and provides a contact form.</p>
+    <img src="https://via.placeholder.com/400x300" alt="Project 1">
 
-    <script src="script.js"></script>
-</body>
-</html>
+    <h3>Project 2: E-Commerce Website</h3>
+    <p>A fully responsive e-commerce website built with React and Node.js. It includes features like user authentication, a shopping cart, and payment integration.</p>
+    <img src="https://via.placeholder.com/400x300" alt="Project 2">
+</div>
+
+<!-- About Section (initially hidden) -->
+<div id="about" class="section" style="display: none;">
+    <h2>About Me</h2>
+    <p>I am a passionate web developer with expertise in front-end and back-end technologies. I specialize in building responsive, user-friendly websites and applications. I love working on new projects and exploring innovative solutions.</p>
+    <img src="https://via.placeholder.com/200" alt="About Me">
+</div>
+
+<!-- Blog Section (initially hidden) -->
+<div id="blog" class="section" style="display: none;">
+    <h2>My Blog</h2>
+    <p>Welcome to my blog where I share insights on development, technology, and more!</p>
+    
+    <h3>Blog Post 1: "The Importance of Clean Code"</h3>
+    <p>Writing clean, readable code is crucial for maintaining long-term software quality. Here's why...</p>
+
+    <h3>Blog Post 2: "Top 10 Web Development Tools You Should Know"</h3>
+    <p>In this post, I share some of my favorite tools and resources for web development.</p>
+</div>
+
+<!-- Footer -->
+<footer style="text-align: center; margin-top: 40px;">
+    <p>&copy; 2024 Your Name. All rights reserved.</p>
+</footer>
+
+<!-- JavaScript for Switching Sections -->
+<script>
+    // JavaScript to show and hide sections
+    function showSection(section) {
+        // Hide all sections
+        const sections = document.querySelectorAll('.section');
+        sections.forEach(sec => {
+            sec.style.display = 'none';
+        });
+
+        // Show the selected section
+        const selectedSection = document.getElementById(section);
+        if (selectedSection) {
+            selectedSection.style.display = 'block';
+        }
+    }
+
+    // Show Portfolio by default on page load
+    document.addEventListener('DOMContentLoaded', () => {
+        showSection('portfolio');
+    });
+</script>
+
