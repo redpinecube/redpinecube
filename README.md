@@ -1,11 +1,37 @@
 ```
-   (\(\  
-  ( -.-) 
- o_(")(")
-```
+               __/)
+            .-(__(=:
+            |    \)
+      (\__  |
+     :=)__)-|  __/)
+      (/    |-(__(=:
+    ______  |  _ \)
+   /      \ | / \
+        ___\|/___\
+       [         ]\
+        \       /  \
+         \     /
+          \___/ 
+```          
 ## ABOUT ME
-I’m a 4th-year Mathematics student at the University of Toronto, with a focus on Partial Differential Equations, Group Theory, Topology, and Graph Theory. I’m also minoring in Statistics and Computer Science, and have experience in Applied ML Research and backend development. Outside of academia, I’m passionate about horseback riding and enjoying a strong cup of coffee.
-
+```
+.-=~=-.                                                                 .-=~=-.
+(__  _)-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-(__  _)
+( _ __)                                                                 ( _ __)
+(__  _)                                                                 (__  _)
+(_ ___)    I’m a 4th-year Mathematics student at the University         (_ ___)
+(__  _)    of Toronto, with a focus on Partial Differential Equations,  (__  _)
+( _ __)    Group Theory, Topology, and Graph Theory. I'm also           ( _ __)
+(__  _)    minoring in Statistics and Computer Science, and have        (__  _)
+(_ ___)    expirence in Applied ML Research and Backend Development.    (_ ___)
+(__  _)    Outside of academia, I'm passionate about horseback          (__  _)
+( _ __)    riding and enjoying a strong cup of coffee.                  ( _ __)
+(__  _)                                                                 (__  _)
+( _ __)                                                                 ( _ __)
+(__  _)                                                                 (__  _)
+(_ ___)-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-=-._.-(_ ___)
+`-._.-'                                                                 `-._.-'
+```
 ## TECH STACK
 
 #### **Languages**
