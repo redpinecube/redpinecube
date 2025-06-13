@@ -1,1 +1,1 @@
-Interested in distributed systems and cloud native infrastructure. 
+I'm a NEST Entrepreneurial Fellow, Machine Learning Researcher, and 4th year Mathematics student at the University of Toronto. Currently, I serve as the Vice President of Startup Development & Acceleration at UTMIST, the largest student-led AI/ML organization in North America, with over 2,700 members. In this role, I lead the MISTic R&D startup incubator.
